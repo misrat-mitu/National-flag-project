@@ -1,0 +1,210 @@
+body {
+  background-color: grey;
+}
+
+p {
+  text-align: center;
+}
+
+.sobuj {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  margin: 50px auto;
+  overflow: hidden;
+}
+.lal {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 24px auto;
+}
+.german {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  margin: 50px auto;
+  border-top: 100px solid #000;
+  border-bottom: 100px solid yellow;
+}
+.argentina {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  text-align: center;
+}
+
+.argentina img {
+  width: 100px;
+}
+
+.canada {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 150px solid red;
+  border-right: 150px solid red;
+  text-align: center;
+  overflow: hidden;
+}
+
+.canada img {
+  width: 200px;
+  margin-top: 50px;
+}
+
+.armenia {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid orange;
+}
+
+.france {
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 200px solid blue;
+  border-right: 200px solid red;
+}
+
+.shada {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  overflow: hidden;
+}
+.lal {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 24px auto;
+}
+
+.russia {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  margin: 50px auto;
+  border-top: 100px solid white;
+  border-bottom: 100px solid red;
+}
+
+.austria {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+}
+
+.yemen {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid black;
+}
+
+.mexico {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 150px solid green;
+  border-right: 150px solid red;
+  text-align: center;
+  overflow: hidden;
+}
+
+.mexico img {
+  width: 200px;
+  margin-top: 50px;
+}
+
+.netherlands {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid blue;
+}
+
+.libya {
+  width: 500px;
+  height: 100px;
+  background-color: black;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid green;
+  text-align: center;
+  overflow: hidden;
+}
+
+.libya img {
+  width: 90px;
+  margin-top: 20px;
+}
+
+.yemen {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid black;
+}
+
+.austria {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+}
+
+.iraq {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid black;
+  text-align: center;
+  overflow: hidden;
+}
+
+.iraq img {
+  width: 300px;
+  margin-top: 10px;
+}
+
+.india {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid orange;
+  border-bottom: 100px solid green;
+  text-align: center;
+  overflow: hidden;
+}
+
+.india img {
+  width: 80px;
+  margin-top: 10px;
+}
